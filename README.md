@@ -19,4 +19,4 @@ If you do not have a GitHub account, you can message me on Discord at Nikolai#77
 - The link that the scammer sent you (if applicable)
 - A screenshot of the message
 
-Thank you for making Discord a better, safer place!
+Duplicate links in submissions are allowed, but if the same message is from the same person, your pull request will be declined. Thank you for understanding, and thank you for making Discord a better, safer place!
