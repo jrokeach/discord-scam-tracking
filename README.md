@@ -12,6 +12,7 @@ message: >
 scam link: https://veryobviousscam.link/dEaDbEeF
 screenshot: https://i.imgur.com/N5ZVSrg.png
 ```
+**Please make sure your submission is going into the correct date folder!**
 
 If you do not have a GitHub account, you can message me on Discord at Nikolai#7796 with the following:
 - The scammer's tag (Username#0000) and ID (000000000000000000, https://www.howtogeek.com/714348/how-to-enable-or-disable-developer-mode-on-discord/)
